@@ -3,9 +3,10 @@
 
 ### Skills
 <div style="flex">
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=Unreal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=C-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=Unreal&logoColor=white"/>
 </div>
 
 ### Stats
