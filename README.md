@@ -10,7 +10,7 @@
 </div>
 
 ### Stats
-![holaitskylie's GitHub stats](https://github-readme-stats.vercel.app/api?username=holaitskylie&show_icons=true&bg_color=00000000)
+![holaitskylie's GitHub stats](https://github-readme-stats.vercel.app/api?username=holaitskylie&show_icons=false&bg_color=30,9781c7,f7cac9&title_color=fff&text_color=fff)
 
 <!--
 **holaitskylie/holaitskylie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
