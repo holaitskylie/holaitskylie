@@ -1,7 +1,7 @@
 ## Hi there 👋
 <img src="https://capsule-render.vercel.app/api?type=wave&color=20:a5c0f2,100:f7cac9&height=210&section=header&text=Jihyun's%20github%20&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff" />
 
-### I'm a junior Game Programemr😊
+### I'm a junior Game,AR/VR Programemr😊
 
 ### Skills
 <div style="flex">
